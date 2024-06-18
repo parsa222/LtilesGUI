@@ -29,6 +29,10 @@ for now n can not be more than 7 because of the way the array was initialized. (
 if you have any suggestions for improvements feel free to open an issue.
 
 
+##
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 
 
 
