@@ -5,6 +5,7 @@ This python script shows how you can fill a \(2^n \times 2^n\) square with L-sha
 ## Recursion Function
 
 here is the link to the recursive Function ([click me](https://www.geeksforgeeks.org/tiling-problem-using-divide-and-conquer-algorithm/)).
+![recFun](https://media.geeksforgeeks.org/wp-content/cdn-uploads/tiles2.png).
 
 ## Description
 
