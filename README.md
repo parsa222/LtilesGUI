@@ -10,6 +10,7 @@ here is the link to the recursive Function ([click me](https://www.geeksforgeeks
 
 - The tiling of a \(2^n times 2^n\)-1 grid using L-shaped tiles with a recursive algorithm.
 - An interactive GUI that allows users to visualize the tiling process in real-time.
+  ![test](https://raw.githubusercontent.com/parsa222/LtilesGUI/main/show.png)
 
 
 ## Usage
